@@ -5,7 +5,7 @@ A production-grade backend for **Project 2 — Library Management System**
 
 Built with **FastAPI · MySQL · Redis · JWT · Prometheus + Grafana · Docker · Pytest**.
 
-> See [`CHAT.md`](./CHAT.md) for the full project log: requirement mapping, decisions, and build plan.
+
 
 ---
 
