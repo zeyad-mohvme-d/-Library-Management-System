@@ -1,6 +1,6 @@
 # 📚 Library Management System
 
-A production-grade backend for **Project 2 — Library Management System**
+A production-grade backend for **Project — Library Management System**
 (Backend Development with FastAPI course).
 
 Built with **FastAPI · MySQL · Redis · JWT · Prometheus + Grafana · Docker · Pytest**.
